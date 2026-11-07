@@ -1,0 +1,5 @@
+event_id,market,selection,line,odds_american,source,captured_at,book,jurisdiction,source_type
+SYNTH-2026-11-07-BLUE-RED,spread,Blue,+3,-110,Synthetic board A,2026-11-07T18:00:00Z,Book A,UNKNOWN,SCREENSHOT
+SYNTH-2026-11-07-BLUE-RED,spread,Blue,+3,-115,Synthetic board B,2026-11-07T18:01:00Z,Book B,UNKNOWN,SCREENSHOT
+SYNTH-2026-11-07-BLUE-RED,spread,Blue,+2.5,-105,Synthetic board A,2026-11-07T18:00:00Z,Book A,UNKNOWN,SCREENSHOT
+SYNTH-2026-11-07-BLUE-RED,moneyline,Blue,,+145,Synthetic board A,2026-11-07T18:00:00Z,Book A,UNKNOWN,SCREENSHOT
